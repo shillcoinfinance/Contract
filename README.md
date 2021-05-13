@@ -1,2 +1,2 @@
 # Contract
-Fixed Supply of One Quadrillion Token Deflationary through Burn
+Fixed Supply of One Quadrillion Tokens
